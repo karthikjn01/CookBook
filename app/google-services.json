@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "697769035671",
+    "firebase_url": "https://someproject-5bf21.firebaseio.com",
+    "project_id": "someproject-5bf21",
+    "storage_bucket": "someproject-5bf21.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:697769035671:android:0a87c3332458748c",
+        "android_client_info": {
+          "package_name": "apps.evotech.com.cookbook"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "697769035671-hcfu67g1lquv5e14ag5744o0k2u3ug63.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "apps.evotech.com.cookbook",
+            "certificate_hash": "c79dcb9b1e072a79778597c6b7a2b30f57ea405b"
+          }
+        },
+        {
+          "client_id": "697769035671-8gacigcot131alei5ihfu5653sr805qd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD69QqWSXz78mvzeEUREub7sPj5FClWByM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "697769035671-8gacigcot131alei5ihfu5653sr805qd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
